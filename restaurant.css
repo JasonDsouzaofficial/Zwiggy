@@ -93,7 +93,7 @@
 .restaurant-banner{
     height: 450px;
     width: 100%;
-    background-image: url('../images/restaurant-back.webp');
+    background-image: url('./images/restaurant-back.webp');
     background-size: cover;
     color: white;
     display: flex;
